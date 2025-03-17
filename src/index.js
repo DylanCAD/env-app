@@ -7,6 +7,7 @@ const App = () => {
   return (
     <div>
       <h1>Bienvenue dans mon application React !</h1>
+      <p>Cette application est en train de tester le hook pre-commit.</p>
     </div>
   );
 };
